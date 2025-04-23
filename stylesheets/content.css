@@ -1,0 +1,34 @@
+.swiper {
+  width: 60vw;
+  height: 40vw;
+  background-color: #c61010;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide1 {
+  background-image: url(/img/ToteBagMockup.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide2 {
+  background-image: url(/img/ToteBagMockup3.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide3 {
+  background-image: url(/img/ToteBagMockup2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.swiper {
+  height: 300px;
+}
+.swiper-pagination-bullet {
+  width: 20px;
+  display: inline-block;
+  height: 20px;
+  background-color: blue;
+}
